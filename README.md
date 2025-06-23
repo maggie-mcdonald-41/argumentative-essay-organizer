@@ -40,7 +40,7 @@ Make sure your `config.js` file contains your private Google API credentials, bu
 
 ## 🙋‍♀️ About the Creator
 
-This project was built by a former special education teacher turned front-end developer. Designed with middle and high school students in mind—especially those who need scaffolded writing support.
+This project was built by a special education teacher. Designed with middle and high school students in mind—especially those who need scaffolded writing support.
 
 ---
 
